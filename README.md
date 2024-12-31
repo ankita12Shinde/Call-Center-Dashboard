@@ -5,3 +5,13 @@ The goal of a Call Center Dashboard is to track key metrics like total call , ca
 
 ## Dataset used
 - <a href=https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/93e11f89d89ccba5c1bd8ce816e9092e623537a9/Call%20Center_Call%20Center.csv>Dataset</a>
+
+## KPI'S
+- Total Calls
+- Total Call Duration(Hrs)
+- Total Call Duration(min)
+- Average Call Duration
+- Response Time
+
+## Screenshots
+![image alt]
