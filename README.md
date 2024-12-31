@@ -15,4 +15,4 @@ The goal of a Call Center Dashboard is to track key metrics like total call , ca
 
 ## Screenshots
 ![image alt](https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/340b6638106865bc29145b936b904b00969fac76/screenshot1.png)
-![image alt](
+![image alt](https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/51b622cb5622e6bad54ae96fce0a3bb7fc53452f/screenshot2.png)
