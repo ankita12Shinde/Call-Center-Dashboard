@@ -14,4 +14,5 @@ The goal of a Call Center Dashboard is to track key metrics like total call , ca
 - Response Time
 
 ## Screenshots
-![image alt]
+![image alt](https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/340b6638106865bc29145b936b904b00969fac76/screenshot1.png)
+![image alt](
