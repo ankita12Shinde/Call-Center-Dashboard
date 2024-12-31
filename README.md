@@ -16,3 +16,6 @@ The goal of a Call Center Dashboard is to track key metrics like total call , ca
 ## Screenshots
 ![image alt](https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/340b6638106865bc29145b936b904b00969fac76/screenshot1.png)
 ![image alt](https://github.com/ankita12Shinde/Call-Center-Dashboard/blob/51b622cb5622e6bad54ae96fce0a3bb7fc53452f/screenshot2.png)
+
+## Final Conclusion 
+A Call Center Dashboard helps track performance, optimize resources, and improve customer satisfaction. It provides real-time insights and trend analysis, enabling better decisions and more efficient operations.
